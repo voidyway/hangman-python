@@ -1,0 +1,8 @@
+[project]
+name = "hangman"
+version = "0.1.0"
+description = "simple hangman game"
+requires-python = ">=3.13"
+dependencies = [
+    "rich>=14.0.0",
+]
