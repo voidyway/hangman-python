@@ -1,5 +1,5 @@
 ## A simple hangman game.
-
+[!WARNING]
 For you safety i recommend that you don't see the code.
 
 ### Features
